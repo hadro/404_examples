@@ -1,0 +1,60 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "http://example.com/folder/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://hdl.huntington.org//iiif/info/p15150coll2/4463/manifest.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "'Continuous rail' crossing at junction (Suggsted by Mario Einaudi)"
+        ]
+      }
+    },
+    {
+      "id": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-7562/manifest",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "Belvedere example (via Leander Seige)"
+        ]
+      }
+    },
+    {
+      "id": "https://cdm17344.contentdm.oclc.org/iiif/natdiglib:11866/manifest.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "Fish and Wildlife service example (via Leander Seige)"
+        ]
+      }
+    },
+    {
+      "id": "https://hdl.huntington.org//iiif/info/p16003coll2/9305/manifest.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "Man standing by switch panel surrounded by 6 young ballerinas in tutus. (Suggested by Mario Einaudi)"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.stack.rdc.library.northwestern.edu/public/8a/f1/ce/3c/-f/03/6-/4b/fb/-a/4c/a-/c4/dd/84/4f/70/c8-manifest.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "Northwestern example"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "404_manifest"
+    ]
+  }
+}

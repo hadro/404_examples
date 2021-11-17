@@ -1,0 +1,11 @@
+manifests:
+  - id: https://iiif.stack.rdc.library.northwestern.edu/public/8a/f1/ce/3c/-f/03/6-/4b/fb/-a/4c/a-/c4/dd/84/4f/70/c8-manifest.json
+    label: Northwestern example
+  - id: https://cdm17344.contentdm.oclc.org/iiif/natdiglib:11866/manifest.json
+    label: Fish and Wildlife service example (via Leander Seige)
+  - id: https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-7562/manifest
+    label: Belvedere example (via Leander Seige)
+  - id: https://hdl.huntington.org//iiif/info/p16003coll2/9305/manifest.json
+    label: Man standing by switch panel surrounded by 6 young ballerinas in tutus. (Suggested by Mario Einaudi)
+  - id: https://hdl.huntington.org//iiif/info/p15150coll2/4463/manifest.json
+    label: "'Continuous rail' crossing at junction (Suggsted by Mario Einaudi)"
