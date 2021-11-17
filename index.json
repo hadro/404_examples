@@ -3,7 +3,7 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "http://example.com/folder/index.json",
+  "id": "https://hadro.github.io/404_examples/index.json",
   "type": "Collection",
   "items": [
     {
